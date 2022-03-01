@@ -28,7 +28,7 @@ MAKEFLAGS += --warn-undefined-variables
 .SUFFIXES:
 
 # The binaries to build (just the basenames)
-BINS := myapp-1 myapp-2
+BINS := devsearch
 
 # The platforms we support.
 ALL_PLATFORMS := linux/amd64 linux/arm linux/arm64 linux/ppc64le linux/s390x windows/amd64

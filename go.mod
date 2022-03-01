@@ -1,3 +1,3 @@
-module github.com/thockin/go-build-template
+module github.com/brucemontegani/devsearch_go
 
 go 1.17
